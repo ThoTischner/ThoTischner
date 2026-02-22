@@ -15,6 +15,12 @@
 
 > 14+ years designing, automating, and operating highly available infrastructure — from bare-metal data centers to cloud-native Kubernetes platforms. Currently exploring where platform engineering meets AI.
 
+## Projects
+
+🔥 **[Ignition](https://github.com/ThoTischner/ignition)** — An AI consciousness architecture. Wraps LLMs in a continuous consciousness loop with perception, emotion, memory, dreaming, and self-modification.
+
+🧠 **[AI Solutions Camp](https://aisolutionscamp.io)** — Stack Overflow for AI use cases. A collaborative platform to share and discover practical AI implementations for real business problems.
+
 ## What I do
 
 🏗️ &nbsp; Architect Kubernetes platforms for AI & Big Data workloads in enterprise environments  
@@ -22,6 +28,9 @@
 🛡️ &nbsp; Build for regulated industries (automotive, public sector, defense)  
 🤖 &nbsp; Explore agentic AI for platform operations  
 
----
+## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Thomas_Tischner-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-tischner-778729366/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-tischner-778729366/)
+[![Website](https://img.shields.io/badge/AI_Solutions_Camp-FF6F00?style=for-the-badge&logo=firefox&logoColor=white)](https://aisolutionscamp.io)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThoTischner)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TomTom01480539)
