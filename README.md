@@ -25,7 +25,7 @@
 
 🏗️ &nbsp; Architect Kubernetes platforms for AI & Big Data workloads in enterprise environments  
 🔧 &nbsp; Automate everything — Infrastructure as Code, GitOps, CI/CD  
-🛡️ &nbsp; Build for regulated industries (automotive, public sector, defense)  
+🛡️ &nbsp; Build for regulated industries
 🤖 &nbsp; Explore agentic AI for platform operations  
 
 ## 📬 Connect
