@@ -19,6 +19,8 @@
 
 🔥 **[Ignition](https://github.com/ThoTischner/ignition)** — An AI consciousness architecture. Wraps LLMs in a continuous consciousness loop with perception, emotion, memory, dreaming, and self-modification.
 
+🏭 **[Autonomous Plant Ops](https://github.com/ThoTischner/autonomous-plant-ops)** — AI-powered industrial monitoring. A local LLM (Llama 3.2 via Ollama) analyzes sensor data in real-time, detects anomalies, and executes autonomous countermeasures — fully containerized, zero cloud dependency.
+
 🧠 **[AI Solutions Camp](https://aisolutionscamp.io)** — Stack Overflow for AI use cases. A collaborative platform to share and discover practical AI implementations for real business problems.
 
 ## What I do
