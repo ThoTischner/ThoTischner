@@ -21,6 +21,8 @@
 
 🏭 **[Autonomous Plant Ops](https://github.com/ThoTischner/autonomous-plant-ops)** — AI-powered industrial monitoring. A local LLM (Llama 3.2 via Ollama) analyzes sensor data in real-time, detects anomalies, and executes autonomous countermeasures — fully containerized, zero cloud dependency.
 
+🌊 **[AI Digital Twin Platform](https://github.com/ThoTischner/ai-digital-twin-platform)** — Interactive 3D digital twin of a water treatment plant. Operate pumps, valves, and dosing systems in real-time while an AI agent detects anomalies and suggests countermeasures — with Three.js visualization and manual/hybrid/auto control modes.
+
 🧠 **[AI Solutions Camp](https://aisolutionscamp.io)** — Stack Overflow for AI use cases. A collaborative platform to share and discover practical AI implementations for real business problems.
 
 ## What I do
