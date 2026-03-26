@@ -23,6 +23,8 @@
 
 🌊 **[AI Digital Twin Platform](https://github.com/ThoTischner/ai-digital-twin-platform)** — Interactive 3D digital twin of a water treatment plant. Operate pumps, valves, and dosing systems in real-time while an AI agent detects anomalies and suggests countermeasures — with Three.js visualization and manual/hybrid/auto control modes.
 
+🔭 **[Observability MCP](https://github.com/ThoTischner/observability-mcp)** — Model Context Protocol server for observability. Connects AI agents to Prometheus, Loki, and Alertmanager — enabling natural-language queries across metrics, logs, and alerts.
+
 🧠 **[AI Solutions Camp](https://aisolutionscamp.io)** — Stack Overflow for AI use cases. A collaborative platform to share and discover practical AI implementations for real business problems.
 
 ## What I do
